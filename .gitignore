@@ -1,0 +1,5 @@
+.env
+.RData
+.Rhistory
+**/*.Rds
+results/

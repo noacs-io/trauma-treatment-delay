@@ -1,0 +1,8 @@
+# Lab book
+
+The purpose of this file is to be a playground and place for
+documentation at the same time. This is were you try different things,
+and write about what you have tried and why, a place to write "dirty"
+code so that the rest of your project can be kept clean. See this
+mostly as a reference for your future self and use it in a way that
+makes sense to you.
