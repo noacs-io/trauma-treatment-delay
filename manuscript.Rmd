@@ -57,7 +57,7 @@ objectives, including any prespecified hypotheses. The introduction
 should not be longer than 1-1.5 pages, typically 4-5 paragraphs, each
 6-8 lines long. Support every statement with a citation -->
 
-Injury is still a major cause of death around the world, taking the lives of around 4,4 million people each year, almost 8% of all deaths[@World Health Organization_2021]. 
+Injury is still a major cause of death around the world, taking the lives of around 4,4 million people each year, almost 8% of all deaths[@World_Health_Organization_2021]. 
 
 Methods 
 =======
