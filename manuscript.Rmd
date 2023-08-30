@@ -38,7 +38,7 @@ what was done and what was found. Not more than 300 words. -->
 
 Background
 ----------
-
+Injury is still a major cause of death around the world, taking the lives of around 4,4 million people each year, almost 8% of all deaths(WHO). 
 Methods
 -------
 
