@@ -1,1 +1,3 @@
 
+
+Injury is still a major cause of death around the world, taking the lives of around 4,4 million people each year, almost 8% of all deaths [@World_Health_Organization_2021]. In the United States, trauma is the 4th leading cause of death among the general population and the leading cause for people between the ages of 1 and 44 [@AAST_2020]. It is also an important cause hospitalization and morbitidity among all age groups, including seniors, and are responsible for an estimated 10% of all years lived with a disability globally [@connolly_woo_lampron_perry_2018] [@World_Health_Organization_2021]. To combat this, dedicated trauma centers exist that have been shown to lower mortality but also improve functional outcome in trauma patients [@Nirula_Brasel_2006]. 
