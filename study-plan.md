@@ -11,7 +11,7 @@ Injury is still a major cause of death around the world, taking the lives of aro
 
 Trauma teams are multidisciplinary and operate in these centers. They consist of individuals from the specialities of emergency medicine, surgery, intensive care, nursing and support staff and are lead by a team leader. Their aim is to rapidly assess and stabilise the patient, prioritise their injuries and arrange for site of definitive care. Emergency physicians are often the personnel activating the trauma code using anatomical and physiological criterias, mechanism of injury and information obtained from emergency service personnel.
 
-Trauma patients brought to trauma centers may receive immedidiate or delayed treatment depending on what protocols are present at the facility and how they are being followed [@ryb2012delayed].
+Trauma patients brought to trauma centers may receive immediate or delayed treatment depending on what protocols are present at the facility and how they are being followed [@ryb2012delayed].
 
 Methods
 =======
