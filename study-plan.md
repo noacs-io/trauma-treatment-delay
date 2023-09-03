@@ -13,15 +13,9 @@ Trauma teams are multidisciplinary and operate in these centers. They consist of
 
 Trauma patients brought to trauma centers may receive immediate or delayed treatment depending on what protocols are present at the facility and how they are being followed [@ryb2012delayed]. In the case of a delayed trauma team activation (DTTA) it can often be attributed to insensitivity in triage protocol and failure to recognize injury patterns [@Hoyt_Hollingsworth-Fridlund_Winchell_Simons_Holbrook_Fortiage_1994]. Studies have also shown that different factors such as age over 55, nonwhite ethnicity, blunt assault among others was linked to a higher risk of DTTA [@ryb2012delayed].
 
+This study will assess delayed treatment at the Karolinska University Hospital in Solna between the years 2012 and 2022 through the trauma registry and trauma care quality databse. Our objectives are to analyse how different factors are associated with delayed treatment in patients.
+
 Methods
 =======
-
-*Refer to the appropriate reporting guideline for details. If you are
-developing, updating or validating a clinical prediction model then
-use
-[TRIPOD](https://www.equator-network.org/reporting-guidelines/tripod-statement/). If
-you are conducting an observational study, for example a cohort or
-case control study in which you assess associations between some
-exposure and an outcome then use
-[STROBE](https://www.equator-network.org/reporting-guidelines/strobe/).
+This is a registry based cohort study using data from the trauma registry and trauma care quality database at the Karolinska University Hospital in Solna. The trauma registry includes about 12000 patients treated between 2012 and 2022. The trauma care quality database is a subset of the trauma registry and includes about 6000 patients selected for review between 2014 and 2022. The outcome is delayed treatment, as identified by the multidisciplinary review board and recorded in the trauma care quality database. This project will link the two databases and assess how different patient level factors, such as age, sex, mechanism of injury, and injury severity, are associated with delayed treatment using logistic regression. A 5% significance level and 95% confidence levels will be used.
 
