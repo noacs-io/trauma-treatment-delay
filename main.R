@@ -1,3 +1,23 @@
+## Load packages
+library(rofi)
+
+## Import data
+imported.data <- import_data()
+
+# Merge data
+data <- merge_data(imported.data)
+
+## Prepare data
+prepared.data <- prepare_data(data)
+
+## Select only variables required for the analysis
+selected.data <- select_variables(prepared.data)
+
+
+
+
+
+
 ## Welcome!
 
 ## This is your project's main script file and together with
