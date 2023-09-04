@@ -3,3 +3,4 @@
 .Rhistory
 **/*.Rds
 results/
+.Rproj.user

@@ -4,7 +4,11 @@ library(rofi)
 ## Import data
 imported.data <- import_data(test=TRUE)
 
+<<<<<<< HEAD
 # Merge data
+=======
+## Merge data
+>>>>>>> b25655e (commit)
 data <- merge_data(imported.data)
 
 ## Prepare data
@@ -18,6 +22,10 @@ selected.data <- select_variables(prepared.data)
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b25655e (commit)
 ## Welcome!
 
 ## This is your project's main script file and together with
