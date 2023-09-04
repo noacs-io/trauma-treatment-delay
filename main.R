@@ -2,7 +2,7 @@
 library(rofi)
 
 ## Import data
-imported.data <- import_data()
+imported.data <- import_data(test=TRUE)
 
 # Merge data
 data <- merge_data(imported.data)
