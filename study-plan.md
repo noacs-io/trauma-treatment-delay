@@ -8,9 +8,9 @@ csl: bmcemerg.csl
 
 Introduction
 ============
-Injury<!-- I suggest we call this trauma instead of injury--> is still a major cause of death around the world, taking the lives of around 4,4 million people each year, almost 8% of all deaths [@World_Health_Organization_2021]. In the United States, trauma is the 4th leading cause of death among the general population and the leading cause for people between the ages of 1 and 44 [@AAST_2020]. It is also an important cause hospitalization and morbidity among all age groups, including seniors, and are responsible for an estimated 10% of all years lived with a disability globally [@connolly_woo_lampron_perry_2018] [@World_Health_Organization_2021]. To combat this, dedicated trauma centers exist that have been shown to lower mortality but also improve functional outcome in trauma patients [@Nirula_Brasel_2006]. 
+Trauma is still a major cause of death around the world, taking the lives of around 4,4 million people each year, almost 8% of all deaths [@World_Health_Organization_2021]. In the United States, trauma is the 4th leading cause of death among the general population and the leading cause for people between the ages of 1 and 44 [@AAST_2020]. It is also an important cause hospitalization and morbidity among all age groups, including seniors, and are responsible for an estimated 10% of all years lived with a disability globally [@connolly_woo_lampron_perry_2018] [@World_Health_Organization_2021]. To combat this, trauma systems and dedicated trauma centers exist that have been shown to lower mortality but also improve functional outcome in trauma patients [@Nirula_Brasel_2006]. 
 
-<!-- Dedicated trauma centres and trauma teams are both components of functioning trauma systems, so I suggest that you introduce the concept of trauma systems first -->
+Trauma systems are infrastructures that exist to provide and optimize care for injured patients starting with injury recognition and triage, transport to appropriate trauma center, inpatient care and outpatient follow-up. Beyond the clinical side, it works with outreach, education and advocacy, data collection through registries, research, funding, and disaster preparedness and response. A comprehensive and functioning trauma system requires strong leadership and engagement at the trauma center, regional and national level [@connolly_woo_lampron_perry_2018].
 
 Trauma teams are multidisciplinary and operate in these centers. They consist of individuals from the specialties of emergency medicine, surgery, intensive care, nursing and support staff and are lead by a team leader. Their aim is to rapidly assess and stabilise the patient, prioritise their injuries and arrange for site of definitive care. Emergency physicians are often the personnel activating the trauma code using anatomical and physiological criteria, mechanism of injury and information obtained from emergency service personnel.
 
@@ -18,7 +18,7 @@ Trauma patients brought to trauma centers may receive immediate or delayed treat
 
 <!-- I suggest that you expand on the potential negative consequences of delayed treatment-->
 
-This study will assess delayed treatment at the Karolinska University Hospital in Solna between the years 2012 and 2022 through the trauma registry and trauma care quality database. Our aim is to analyse how different factors are associated with delayed treatment in patients.<!-- Use the aim from the README -->
+To determine how patient level factors are associated with delayed treatment in adult trauma patients.
 
 Methods
 =======
