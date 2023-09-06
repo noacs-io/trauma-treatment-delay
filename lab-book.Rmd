@@ -9,3 +9,10 @@ makes sense to you.
 
 inga barn med (15 under)
 delay är OFI. vilka patienter?
+traumaregister kopplat till swetrau, inte samma dock. swetrau, NISS 15, NKS ESS 9 b.l.a.
+kvalitetsregister är det konferenser sammanställer. auditfilters faller där, kallar till konferens om OFI är positivt
+create OFI, skapar binärt ja eller nej
+kolum i dataset som heter DT_treatment typ. delta time. ph prehospital. ed emergency department
+kolum är tiden till första hjälpande insats. kolum är i minuter, kom till hjälp.
+olika faktorer som höjer tid.
+DT treatment finns ej på 43% OFI, 74% av ej OFI.
