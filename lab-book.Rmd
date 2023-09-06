@@ -6,3 +6,5 @@ and write about what you have tried and why, a place to write "dirty"
 code so that the rest of your project can be kept clean. See this
 mostly as a reference for your future self and use it in a way that
 makes sense to you.
+
+inga barn med (15 under)
