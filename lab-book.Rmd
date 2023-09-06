@@ -16,3 +16,4 @@ kolum i dataset som heter DT_treatment typ. delta time. ph prehospital. ed emerg
 kolum är tiden till första hjälpande insats. kolum är i minuter, kom till hjälp.
 olika faktorer som höjer tid.
 DT treatment finns ej på 43% OFI, 74% av ej OFI.
+dt_ed_emerg_prod är min

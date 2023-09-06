@@ -1,10 +1,17 @@
+library(rofi)
+
+
 #' Select Variables
 #'
 #' Select only the variables I need for my analysis 
-#' @param dataset The compled dataset.
+#' @param dataset The complete dataset.
 #' @export 
 prepare_data <- function(dataset) {
-    variables.to.include <- c("pt_Gender", "pt_age_yrs", "ed_sbp_value", "ed_rr_value", "ed_gcs_sum", "NISS")
-    prepared.dataset <- dataset[, variables.to.include]
-    return (prepared.dataset)
+  ## Import data
+  data <- rofi::import_data(test = TRUE)
+  
+  combined.datasets <- rofi::merge_data(data, test = TRUE)
+  combined.datasets$ofi <- rofi::create_ofi(combined.datasets)
+  
+  return (combined.datasets)
 }

@@ -1,18 +1,9 @@
 ## Load packages
-library(rofi)
 
-## Import data
-imported.data <- import_data(test=TRUE)
-
-
-## Merge data
-data <- merge_data(imported.data)
+noacsr::source_all_functions()
 
 ## Prepare data
 prepared.data <- prepare_data(data)
-
-## Select only variables required for the analysis
-selected.data <- select_variables(prepared.data)
 
 
 
@@ -41,9 +32,7 @@ selected.data <- select_variables(prepared.data)
 ## them). They all need to be sourced however when you compile your
 ## manuscript file or run this file as a job, as that happens in a
 ## clean R session.
-noacsr::source_all_functions()
 
-## Import data
-data <- import_data(test = TRUE)
+
 
 ## Whatever you do next, maybe clean data?
