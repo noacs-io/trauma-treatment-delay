@@ -6,9 +6,13 @@ bibliography: bibliography.bib
 csl: bmcemerg.csl
 ---
 
-Introduction
-============
-Trauma is still a major cause of death around the world, taking the lives of around 4,4 million people each year, almost 8% of all deaths [@World_Health_Organization_2021]. In the United States, trauma is the 4th leading cause of death among the general population and the leading cause for people between the ages of 1 and 44 [@AAST_2020]. It is also an important cause hospitalization and morbidity among all age groups, including seniors, and are responsible for an estimated 10% of all years lived with a disability globally [@connolly_woo_lampron_perry_2018] [@World_Health_Organization_2021]. To combat this, trauma systems and dedicated trauma centers exist that have been shown to lower mortality but also improve functional outcome in trauma patients [@Nirula_Brasel_2006]. 
+# Introduction
+
+Physical trauma is defined as a serious injury to the body and is often divided into two groups, blunt force trauma and penetrative trauma. Blunt force trauma happens when an object or force strikes the body, often causing bruising, broken bones or deep cuts. Examples of this could be car crashes, falls or direct blows to the body. Penetrative trauma is when an object pierces the skin or body and creating an open wound. Examples of this are gunshot wounds and stab wounds [@National_Institute_of_General_Medical_Sciences_2020].
+
+Trauma is still a major cause of death around the world today, taking the lives of around 4,4 million people each year, almost 8% of all deaths [@World_Health_Organization_2021]. In the United States, trauma is the 4th leading cause of death among the general population and the leading cause for people between the ages of 1 and 44 [@AAST_2020]. It is also an important cause hospitalization and morbidity among all age groups, including seniors, and are responsible for an estimated 10% of all years lived with a disability globally. This has a significant burden on social and economic level, costing countries billions of US dollars each year in healthcare and lost productivity. [@connolly_woo_lampron_perry_2018] [@World_Health_Organization_2021].
+
+To combat this, trauma systems and dedicated trauma centers exist that have been shown to lower mortality but also improve functional outcome in trauma patients [@Nirula_Brasel_2006].
 
 Trauma systems are infrastructures that exist to provide and optimize care for injured patients starting with injury recognition and triage, transport to appropriate trauma center, inpatient care and outpatient follow-up. Beyond the clinical side, it works with outreach, education and advocacy, data collection through registries, research, funding, and disaster preparedness and response. A comprehensive and functioning trauma system requires strong leadership and engagement at the trauma center, regional and national level [@connolly_woo_lampron_perry_2018].
 
@@ -18,8 +22,8 @@ Trauma patients brought to trauma centers may receive immediate or delayed treat
 
 To determine how patient level factors are associated with delayed treatment in adult trauma patients.
 
-Methods
-=======
+# Methods
+
 This is a registry based cohort study using data from the trauma registry and trauma care quality database at the Karolinska University Hospital in Solna. The trauma registry includes about 12000 patients treated between 2012 and 2022. The trauma care quality database is a subset of the trauma registry and includes about 6000 patients selected for review between 2014 and 2022. The outcome is delayed treatment, as identified by the multidisciplinary review board and recorded in the trauma care quality database. This project will link the two databases and assess how different patient level factors, such as age, sex, mechanism of injury, and injury severity, are associated with delayed treatment using logistic regression. A 5% significance level and 95% confidence levels will be used.
 
 <!-- Expand on methods, use the STROBE statement on cohort studies -->
