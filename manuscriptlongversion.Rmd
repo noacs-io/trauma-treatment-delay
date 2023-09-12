@@ -18,7 +18,7 @@ Trauma teams are multidisciplinary and operate in these centers. They consist of
 
 Trauma patients brought to trauma centers may receive immediate or delayed treatment depending on what protocols are present at the facility and how they are being followed [@ryb2012delayed]. Among the preventable or possibly preventable deaths in trauma patients, a group determined by the Combined Trauma Death Review Committee, delay in treatment has been identified as a major error contributing to death, found in up to 52.9% of patients in said group according to studies [@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007]. In the case of a delayed trauma team activation (DTTA) it can often be attributed to insensitivity in triage protocol and failure to recognize injury patterns [@Hoyt_Hollingsworth-Fridlund_Winchell_Simons_Holbrook_Fortiage_1994]. Studies have also shown that different factors such as age over 55, nonwhite ethnicity, blunt assault among others was linked to a higher risk of DTTA [@ryb2012delayed].
 
-To determine how patient level factors are associated with delayed treatment in adult trauma patients.
+In this paper our aim is to determine what different patient level factors affect the risk of receiving delayed treatment at a trauma center.
 
 # Methods
 
