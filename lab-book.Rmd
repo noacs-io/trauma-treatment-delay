@@ -17,3 +17,6 @@ kolum är tiden till första hjälpande insats. kolum är i minuter, kom till hj
 olika faktorer som höjer tid.
 DT treatment finns ej på 43% OFI, 74% av ej OFI.
 dt_ed_emerg_prod är min
+
+tog bort
+csl: bmcemerg.csl
