@@ -45,7 +45,7 @@ The data used is from the trauma registry and trauma care quality database at th
 
 **Participants**
 
-The database only includes patients 15 and above, so patients under that age are not included.
+The database only includes patients 15 and above, ISS \>9 and/or trauma team activation. Inclusion in the study further requires that the patients have been assessed for OFIs. Exclusion happens if a patient is missing information in one of the examined patient factors.
 
 **Variables**
 
@@ -53,7 +53,7 @@ The outcome is delayed treatment, as identified by the multidisciplinary review 
 
 **Data sources/measurement**
 
-The data comes from the database
+The data comes from the trauma registry and trauma care quality database.
 
 **Bias**
 
@@ -61,7 +61,7 @@ Bias is not relevant in this study as the data is collected from a database and 
 
 **Study size**
 
-The study size is all of the eligible patients that was treated at the hospital between 2012 and 2022.
+The study size is all of the eligible patients that was treated at the hospital between 2012 and 2022. The OFI screening started in 2013, which means that the study size can't be expanded much more.
 
 **Quantitative variables**
 
