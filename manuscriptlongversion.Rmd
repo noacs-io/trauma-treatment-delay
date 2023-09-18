@@ -29,9 +29,9 @@ Trauma teams are multidisciplinary and operate in these centers. They play a piv
 
 **Delay in treatment**
 
-Trauma patients brought to trauma centers may receive immediate or delayed treatment depending on what protocols are present at the facility and how they are being followed [@ryb2012delayed]. A cornerstone of trauma quality improvement programs is multidisciplinary mortality and morbidity review to identify opportunities for improvement and implement corrective actions. This would be a meeting where doctors from different specialities sit down and go through cases where possible OFIs were identified by nurses who go through the trauma care quality database. Examples of opportunities for improvement may include lack of resources and management errors. One common OFI that this paper will look further into is delayed treatment. Among the preventable or possibly preventable deaths in trauma patients, a group determined by the Combined Trauma Death Review Committee, delay in treatment has been identified as a major error contributing to death, found in up to 52.9% of patients in said group [@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007]. Although it is such a common OFI, the patient level factors associated with delayed treatment are poorly understood.
+Once treated, the patients information and timeline of what happened enters a trauma care database, depending on what hospital. At Nya Karolinska Universitetssjukhuset, all patients who have been treated and had ISS\>9 or had the trauma alarm activated are included and screened for OFIs. A cornerstone of trauma quality improvement programs is multidisciplinary mortality and morbidity review to identify OFIs and implement corrective actions. This refers to a meeting where doctors from different specialities sit down and go through cases where possible OFIs were identified by nurses who go through the trauma care quality database. Examples of opportunities for improvement may include lack of resources and management errors. One common OFI that this paper will look further into is delayed treatment. Among the preventable or possibly preventable deaths in trauma patients, a subgroup of patients determined by the Combined Trauma Death Review Committee, delay in treatment has been identified as a major error contributing to death, found in up to 52.9% of patients in said group [@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007]. Although it is such a common OFI, the patient level factors associated with delayed treatment are poorly understood.
 
-In this paper our aim is to determine what different patient level factors affect the risk of receiving delayed treatment at a trauma center.
+The aim of this paper is to determine what different patient level factors affect the risk of receiving delayed treatment at a trauma center.
 
 # Methods
 
@@ -49,7 +49,7 @@ The database only includes patients 15 and above, ISS \>9 and/or trauma team act
 
 **Variables**
 
-The outcome is delayed treatment, as identified by the multidisciplinary review board and recorded in the trauma care quality database. This project will link the two databases and assess how different patient level factors, such as age, sex, mechanism of injury, and injury severity, are associated with delayed treatment using logistic regression. A 5% significance level and 95% confidence levels will be used.
+The outcome is delayed treatment, which is defined as more than 30 minutes passing from arrival before receiving treatment, as identified by the multidisciplinary review board and recorded in the trauma care quality database. This project will link the two databases and assess how different patient level factors, such as age, sex, mechanism of injury, and injury severity, are associated with delayed treatment using logistic regression. A 5% significance level and 95% confidence levels will be used.
 
 **Data sources/measurement**
 
@@ -61,7 +61,7 @@ Bias is not relevant in this study as the data is collected from a database and 
 
 **Study size**
 
-The study size is all of the eligible patients that was treated at the hospital between 2012 and 2022. The OFI screening started in 2013, which means that the study size can't be expanded much more.
+The study size is all of the eligible patients that was treated at the hospital between 2012 and 2022. Starting 2013 only a subgroup of patients were screened for OFIs, but starting 2017 all patients that are included in the database are screened for OFIs.
 
 **Quantitative variables**
 
