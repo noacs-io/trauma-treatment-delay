@@ -9,7 +9,7 @@ prepared.data <- prepare_data(data)
 subset.data <- Create_subset(data)
 
 
-
+print(subset.data)
 
 
 

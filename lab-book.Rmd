@@ -18,5 +18,18 @@ olika faktorer som höjer tid.
 DT treatment finns ej på 43% OFI, 74% av ej OFI.
 dt_ed_emerg_prod är min
 
+mycket data finns på patientfaktorer o mortalitet, men ej fördröjning
+
+konferenser ovalninga globalt, resurskrävande. bara KS i sverige. nästan alla sjukhus går igenom dödsfall.
+Finns på KI 2010-2012. hjärtstopp ung man, vet ej hur man skulle göra. intresekonflikt mellan medicin o kirurg.
+gunilla wilke? anestesisköterska styrde upp mha två läkare kvalitetsförbättringsarbete. 2013 började? 
+gick först igenom dödsfall, sen utanför mortalitet. försökte inkorporera audit filters, mellan 2013-2017 audit filter för brett. valde patienter på måfå.
+gjorde om filter till de vi har nu, fick in en till sjuksyrra. liselott applicerar alla filter, typ 9 olika. om ja, går igenom pat med gunilla.
+på konferens alla som sysslar med trauma
+
+plan B, vi har all data så det ska gå
+
+
+  
 tog bort
 csl: bmcemerg.csl
