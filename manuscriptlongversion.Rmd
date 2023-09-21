@@ -33,17 +33,13 @@ Trauma teams are multidisciplinary and operate in these centers. They play a piv
 
 **Mortality and morbidity (MoM) conferences**
 
-Many hospitals, mainly in HIC, have a trauma registry where they log the patients information and timeline of what happened. This is important work, as a cornerstone of trauma quality improvement programs is multidisciplinary MoM conferences. The MoM conference is a meeting where different specialities who work with trauma care sit down and discuss deaths and complications in order to look for preventable factors. These conferences are performed in many hospitals globally, almost everywhere where there are formal medical specialty departments and sometimes in smaller hospitals as well [@World_Health_Organization_2009].
+Many hospitals have a trauma registry where they log the patients information and timeline of what happened. The extent of the registry varies, with HIC having more complete registries. This logging of information is important work, as a cornerstone of trauma quality improvement programs is multidisciplinary MoM conferences. The MoM conference is a meeting where different specialities who work with trauma care sit down and discuss deaths and complications in order to look for preventable factors. The endpoint of these MoM conferences are opportunities for improvement (OFI). At the end of the conference, consensus is reached regarding the existence of an OFI.
 
-OFIs are the endpoint of MoM conferences. These meetings are
+These conferences are performed in many hospitals globally, almost everywhere where there are formal medical specialty departments and sometimes in smaller hospitals as well [@World_Health_Organization_2009].
 
-where possible opportunities for improvement (OFI) were identified by nurses who go through the trauma care quality database
+In Sweden, most hospitals have mortality conferences on deceased patient cases, but only one has MoM conferences to better their trauma care on patients who lived. The reason being that this expansion of MoM conferences takes time and resources, which is why all hospitals don't implement this.
 
-These MoM conferences are very resource and time craving, which is why it is a concept that has not been broadly implemented.
-
-In Sweden In Sweden, most hospitals have mortality conferences on deceased patient cases, but only one has MoM conferences to better their trauma care on patients who lived. Examples of opportunities for improvement may include lack of resources and management errors.
-
-<!-- I suggest that you introduce the concept of trauma qulity improvement programmes, including mortality and morbidity review and OFI, before you introduce delay in treatment-->
+Examples of OFI may include lack of resources and management errors.
 
 One common OFI that this paper will look further into is delayed treatment. Among the preventable or possibly preventable deaths in trauma patients, a subgroup of patients determined by the Combined Trauma Death Review Committee<!-- What's this? Elaborate-->, delay in treatment has been identified as a major error contributing to death, found in up to 52.9% of patients in said group [@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007]. Although it is such a common OFI, the patient level factors associated with delayed treatment are poorly understood. There may be several factors that correlate with receiving delayed treatment, but they have yet to be identified. Mapping these factors may help in identifying patients that might be at risk for receiving delayed treatment before it happens.<!-- Elaborate on the potential risks of delayed treatment and give examples-->
 
