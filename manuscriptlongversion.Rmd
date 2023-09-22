@@ -15,9 +15,7 @@ bibliography: bibliography.bib
 
 **Definition**
 
-Trauma, defined as the clinical entity composed of physical injury and the body's associated response, is and has long been a major cause of death around the world today.
-
-Within modern hospital care, trauma systems stands as an important part in healthcare and is crucial to lowering mortality and morbidity in injured patients through many means, such as hospital care, follow up and prevention programs.
+Trauma, defined as the clinical entity composed of physical injury and the body's associated response, is and has long been a major cause of death around the world today. Within modern hospital care, the trauma system stands as an important part in healthcare and is crucial to lowering mortality and morbidity in injured patients through many means, such as hospital care, follow up and prevention programs.
 
 **Trauma statistics**
 
@@ -33,11 +31,11 @@ Trauma teams are multidisciplinary and operate in these centers. They play a piv
 
 **Mortality and morbidity (MoM) conferences**
 
-Many hospitals have a trauma registry where they log the patients information and timeline of what happened. The extent of the registry varies, with HIC having more complete registries. This logging of information is important work, as a cornerstone of trauma quality improvement programs is multidisciplinary MoM conferences. The MoM conference is a meeting where different specialities who work with trauma care sit down and discuss deaths and complications in order to look for preventable factors. These conferences are performed in many hospitals globally, almost everywhere where there are formal medical specialty departments and sometimes in smaller hospitals as well [@World_Health_Organization_2009]. In Sweden, most hospitals have mortality conferences on deceased patient cases, but only one has MoM conferences to better their trauma care on patients who lived. The reason being that this expansion of MoM conferences takes time and resources, which is why all hospitals don't implement this.
+Many hospitals have a trauma registry where they log the patients information and timeline of what happened. The extent of the registry varies, with HIC having more complete registries. This logging of information is important work, as a cornerstone of trauma quality improvement programs is multidisciplinary MoM conferences. The MoM conference is a meeting where different specialities who work with trauma care sit down and discuss deaths and complications in order to look for preventable factors. These conferences are performed in many hospitals globally, almost everywhere where there are formal medical specialty departments and sometimes in smaller hospitals as well [@World_Health_Organization_2009]. In Sweden, many hospitals have mortality conferences on deceased patient cases, but only one has MoM conferences to better their trauma care on patients who lived [@SweTrau_2023]. The reason being that this expansion of MoM conferences takes time and resources, which is why all hospitals don't implement this.
 
-The endpoint of these MoM conferences are opportunities for improvement (OFI). At the end of the conference, consensus is reached regarding the existence of an OFI and implementation of corrective action. This process is effective, as it has been shown that this review is associated with high-quality trauma care [@Santana_Stelfox_2014]. Examples of OFI may include lack of resources and management errors. One common OFI that this paper will look further into is delayed treatment. According to previous studies, among the preventable or possibly preventable deaths in trauma patients, delay in treatment has been identified as a major error contributing to death, found in up to 52.9% of patients in said group [@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007].
+The endpoint of these MoM conferences are opportunities for improvement (OFI). At the end of the conference, consensus is reached regarding the existence of an OFI and implementation of corrective action. This process is effective, as it has been shown that this review is associated with high-quality trauma care [@Santana_Stelfox_2014]. Examples of OFI may include lack of resources and management errors. One common OFI that this paper will look further into is delayed treatment. According to previous studies, among the preventable or possibly preventable deaths in trauma patients, delay in treatment has been identified as a major error contributing to death, found in up to 52.9% of patients in said group [@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007]. Delayed treatment has been shown to have adverse effects on patients, showing why it is such an important issue and the need to develop strategies to combat [@Sampalis_Boukas_Lavoie_Nikolis_Frechette_Brown_Fleiszer_Mulder_1995][@Sampalis_Lavoie_Salas_Nikolis_Williams_1994]. Although it is such a common OFI, the patient level factors associated with delayed treatment are poorly understood. There may be several factors that correlate with receiving delayed treatment, but they have yet to be identified. Mapping these factors may help in identifying patients that might be at risk for receiving delayed treatment before it happens.
 
-Although it is such a common OFI, the patient level factors associated with delayed treatment are poorly understood. There may be several factors that correlate with receiving delayed treatment, but they have yet to be identified. Mapping these factors may help in identifying patients that might be at risk for receiving delayed treatment before it happens.<!-- Elaborate on the potential risks of delayed treatment and give examples-->
+**Aim**
 
 The aim of this paper is to determine what different patient level factors affect the risk of receiving delayed treatment at a trauma center.
 
@@ -45,7 +43,11 @@ The aim of this paper is to determine what different patient level factors affec
 
 **Study design**
 
-This is a registry based cohort study using data from the trauma registry and trauma care quality database at the Karolinska University Hospital in Solna. The trauma registry includes about 14000 patients treated between 2012 and 2022. The trauma care quality database is a subset of the trauma registry and includes about 8000 patients selected for review between 2013 and 2022. The outcome is delayed treatment<!-- You can have a separate heading called Outcome-->, as identified by the multidisciplinary review board and recorded in the trauma care quality database. This project will link the two databases and assess how different patient level factors, such as age, sex, mechanism of injury, and injury severity, are associated with delayed treatment using logistic regression.
+This is a registry based cohort study using data from the trauma registry and trauma care quality database at the Karolinska University Hospital in Solna. The trauma registry includes about 14000 patients treated between 2012 and 2022. The trauma care quality database is a subset of the trauma registry and includes about 8000 patients selected for review between 2013 and 2022. This project will link the two databases and assess how different patient level factors, such as age, sex, mechanism of injury, and injury severity, are associated with delayed treatment using logistic regression.
+
+**Outcome**
+
+The outcome is delayed treatment, as identified by the multidisciplinary review board and recorded in the trauma care quality database.
 
 **Setting**
 
@@ -65,13 +67,13 @@ The data comes from the trauma registry and trauma care quality database.
 
 **Bias**
 
-Bias is not relevant in this study as the data is collected from a database and processed by a coding program.<!-- Not quite true, there are multiple biases that may come into play, for example selection bias, i.e. is the sample representative of the population to which you want to generalise?-->
+Selection bias as this is a retrospective cohort study where the outcome has occurred.
+
+Misclassification bias as the conference may reach a consensus that is wrong.
 
 **Study size**
 
 The study size is all of the eligible patients that was treated at the hospital between 2012 and 2022. Starting 2013 only a subgroup of patients were screened for OFIs, but starting 2017 all patients that are included in the database are screened for OFIs.
-
-**Quantitative variables**
 
 **Statistical methods**
 
