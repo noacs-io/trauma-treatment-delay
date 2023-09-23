@@ -12,4 +12,8 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
+MarkdownWrap: Column
+MarkdownWrapAtColumn: 72
+MarkdownCanonical: Yes
+
 SpellingDictionary: en_GB

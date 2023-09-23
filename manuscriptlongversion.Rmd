@@ -9,72 +9,275 @@ output:
     df_print: paged
   pdf_document: default
 bibliography: bibliography.bib
+editor_options:
+  markdown:
+    wrap: 72
 ---
 
 # Introduction
 
 **Definition**
 
-Trauma, defined as the clinical entity composed of physical injury and the body's associated response, is and has long been a major cause of death around the world today. Within modern hospital care, the trauma system stands as an important part in healthcare and is crucial to lowering mortality and morbidity in injured patients through many means, such as hospital care, follow up and prevention programs.
+Trauma, defined as the clinical entity composed of physical injury and
+the body's associated response <!-- KS: A good citation is:
+@book{gerdin_risk_2015,
+    location = {Stockholm},
+    title = {The risk of dying: predicting trauma mortality in urban Indian
+             hospitals},
+    isbn = {978-91-7676-157-1},
+    shorttitle = {The risk of dying},
+    publisher = {Karolinska Institutet},
+    author = {Gerdin, Martin},
+    date = {2015},
+    note = {{OCLC}: 942942790},
+}
+A good read if you have time ;), PDF URL: https://openarchive.ki.se/xmlui/bitstream/handle/10616/44832/Thesis_Martin_Gerdin.pdf?sequence=3&isAllowed=y
+--> , is and has long been a major cause of death around the world today
+<!-- KS: needs citation -->. Within modern hospital care, the trauma
+system stands as an important part in healthcare and is crucial to
+lowering mortality and morbidity <!-- KS: needs citation --> in injured
+patients through many means, such as hospital care, follow up and
+prevention programs.
 
-**Trauma statistics**
+<!-- KS: Use markdown headings. So here you should do the below: -->
 
-Trauma is often divided into two subgroups, blunt force trauma and penetrating trauma. Blunt force trauma is when an object or force strikes the body, often causing bruising, broken bones or deep cuts. Examples of blunt trauma could be car crashes, falls or direct blows to the body. Penetrating trauma is when an object pierces the skin or body and creates an open wound. Examples of penetrating trauma are gunshot wounds and stab wounds [@National_Institute_of_General_Medical_Sciences_2020]. Differences exist between the two groups, as blunt trauma patients tend to be more injured on arrival to the hospital and as such require more resources and be hospitalized for a longer period because of their more severe injuries [@FITCH20191201].
+## Trauma Statistics
 
-Today, trauma takes the lives of around 4,4 million people each year, almost 8% of all deaths [@World_Health_Organization_2021]. In the United States, trauma is the 4th leading cause of death among the general population and the leading cause for people between the ages of 1 and 44 [@AAST_2020]. It is also an important cause of hospitalization and morbidity among all age groups, including seniors, and is responsible for an estimated 10% of all years lived with a disability globally. This has a significant burden on social and economic level, costing countries billions of US dollars each year in healthcare and lost productivity[@connolly_woo_lampron_perry_2018]. Studies estimate the cost of trauma care being between 18,500\$ and 41,500\$ in high income countries (HIC), depending on the country [@Willenberg_Curtis_Taylor_Jan_Glass_Myburgh_2012]. However, it has been shown that this burden is not evenly distributed between or within countries. Many social factors such as age, sex and social status play a major role in the risk of dying from trauma, with young men with low socio-economic status being at most risk [@World_Health_Organization_2021]. But it is not only patient level factors that affect what effect trauma has on people. About 90% of all trauma related deaths occur in low- and middle-income countries (LMIC), with death rates by trauma also being higher than in high income countries. Even within these LMIC, people of poorer socio-economic status have higher death rates from trauma. Problems identified within these countries that contribute to these statisitics were infrastructure, education and training, attributed to lack of funding, brain drain to HIC and lack of availability of basic amenities [@Shanthakumar_Payne_Leitch_Alfa-Wali_2021]. In HIC where funding and governance over the healthcare system is better designed, functioning trauma systems and dedicated trauma centers exist that have been shown to lower mortality but also improve functional outcome in trauma patients [@Nirula_Brasel_2006].
+and not: **Trauma statistics** <!-- KS: use title casing -->
+<!-- KS: personally if feel you are writing too much background to trauma. You should focus on what your aim is. Delay in trauma treatment. Thus write very little about trauma in general and more about trauma treatment and quality improvement programmes.
+You are not writing a review article but a specific study. Thus information such as cost etc can be ignored. One paragraph on statistic is fine -->
+
+Trauma is often divided into two subgroups, blunt force trauma and
+penetrating trauma. Blunt force trauma is when an object or force
+strikes the body, often causing bruising, broken bones or deep cuts.
+Examples of blunt trauma could be car crashes, falls or direct blows to
+the body. Penetrating trauma is when an object pierces the skin or body
+and creates an open wound. Examples of penetrating trauma are gunshot
+wounds and stab wounds
+[@National_Institute_of_General_Medical_Sciences_2020]
+<!-- KS: Please use shorter bib keys. Author and year is enough, ex. [@szolnoky2023] -->.
+Differences exist between the two groups, as blunt trauma patients tends
+to be more injured on arrival to the hospital and as such require more
+resources and be hospitalized for a longer period because of their more
+severe injuries [@FITCH20191201] <!-- KS: reword, does not flow -->.
+
+Today, trauma takes the lives of around 4,4 million people each year,
+almost 8% of all deaths [@World_Health_Organization_2021]. In the United
+States, trauma is the 4th leading cause of death among the general
+population and the leading cause for people between the ages of 1 and 44
+[@AAST_2020]. It is also an important cause of hospitalization and
+morbidity among all age groups, including seniors, and is responsible
+for an estimated 10% of all years lived with a disability globally. This
+has a significant burden on social and economic level, costing countries
+billions of US dollars each year in healthcare and lost
+productivity[@connolly_woo_lampron_perry_2018]. Studies estimate the
+cost of trauma care being between 18,500\$ and 41,500\$ in high income
+countries (HIC), depending on the country
+<!-- KS: per patient or per what? -->
+[@Willenberg_Curtis_Taylor_Jan_Glass_Myburgh_2012]. However, it has been
+shown that this burden is not evenly distributed between or within
+countries. Many social factors such as age, sex and social status play a
+major role in the risk of dying from trauma, with young men with low
+socio-economic status being at most risk
+[@World_Health_Organization_2021]. But it is not only patient level
+factors that affect what effect trauma has on people. About 90% of all
+trauma related deaths occur in low- and middle-income countries (LMIC),
+with death rates by trauma also being higher than in high income
+countries. Even within these LMIC, people of poorer socio-economic
+status have higher death rates from trauma. Problems identified within
+these countries that contribute to these statisitics were
+infrastructure, education and training, attributed to lack of funding,
+brain drain to HIC and lack of availability of basic amenities
+[@Shanthakumar_Payne_Leitch_Alfa-Wali_2021]. In HIC where funding and
+governance over the healthcare system is better designed, functioning
+trauma systems and dedicated trauma centers exist that have been shown
+to lower mortality but also improve functional outcome in trauma
+patients [@Nirula_Brasel_2006].
 
 **Trauma systems**
+<!-- KS: Keep in mind that your target audience is your peers. They do have some
+medical knowledge. Thus you do not have to define everything and can shorten 
+this section. -->
 
-Trauma systems are infrastructures that exist to provide and optimize care for injured patients starting with injury recognition and triage, transport to appropriate trauma center, inpatient care and outpatient follow-up. Beyond the clinical side, trauma systems work with outreach, education and advocacy, data collection through registries, research, funding, and disaster preparedness and response. A comprehensive and functioning trauma system requires strong leadership and engagement at the trauma center, regional and national level [@connolly_woo_lampron_perry_2018]. This system is crucial to provide care for trauma patients, both in reducing morbidity and mortality in this patient group. Earlier studies from Sweden have shown that treating severely injured patients at a trauma center is associated with a 41% lower adjusted 30-day mortality rate compared to being treated at a non trauma care center due to them being more capable of treating these patients, with potential survival benefit increasing with higher injury severity [@Candefjord_Asker_Caragounis_2020]. Other studies have shown similar results, showing that treating injured patients at trauma centers is associated with a 15-30% decrease in mortality [@Moran_Lecky_Bouamra_Lawrence_Edwards_Woodford_Willett_Coats_2018][@Celso_Tepas_Langland-Orban_Pracht_Papa_Lottenberg_Flint_2006][@MacKenzie_Rivara_Jurkovich_Nathens_Frey_Egleston_Salkever_Scharfstein_2006][@Haas_Stukel_Gomez_Zagorski_De_Mestral_Sharma_Rubenfeld_Nathens_2012]. During the last three decades, the introduction of trauma systems has contributed to lowering the incidence of preventable death . This is attributed to the improvements in care for acute brain injuries and bleeding control. The incidence of late death because of sepsis and multiple organ failure, possibly a result of better and earlier resuscitation [@Asensio_Trunkey_2008]. Functioning trauma systems saves lives in the hospital, but their work outside of the hospital is just as important. Data collection from injured patients, such as mechanism of injury or mortality, are essential for creating databases that can be used for research. In turn, that research can be used for planning injury prevention programs that target the most common injuries in the right ways, e.g. teen drivers, children, specific occupations etc. These injury prevention programs can be planned on trauma center, organizational or government level[@ACS].
+Trauma systems are infrastructures that exist to provide and optimize
+care for injured patients starting with injury recognition and triage,
+transport to appropriate trauma center, inpatient care and outpatient
+follow-up. Beyond the clinical side, trauma systems work with outreach,
+education and advocacy, data collection through registries, research,
+funding, and disaster preparedness and response. A comprehensive and
+functioning trauma system requires strong leadership and engagement at
+the trauma center, regional and national level
+[@connolly_woo_lampron_perry_2018]. This system is crucial to provide
+care for trauma patients, both in reducing morbidity and mortality in
+this patient group. Earlier studies from Sweden have shown that treating
+severely injured patients at a trauma center is associated with a 41%
+lower adjusted 30-day mortality rate compared to being treated at a non
+trauma care center due to them being more capable of treating these
+patients, with potential survival benefit increasing with higher injury
+severity [@Candefjord_Asker_Caragounis_2020]. Other studies have shown
+similar results, showing that treating injured patients at trauma
+centers is associated with a 15-30% decrease in mortality
+[@Moran_Lecky_Bouamra_Lawrence_Edwards_Woodford_Willett_Coats_2018][@Celso_Tepas_Langland-Orban_Pracht_Papa_Lottenberg_Flint_2006][@MacKenzie_Rivara_Jurkovich_Nathens_Frey_Egleston_Salkever_Scharfstein_2006][@Haas_Stukel_Gomez_Zagorski_De_Mestral_Sharma_Rubenfeld_Nathens_2012].
+During the last three decades, the introduction of trauma systems has
+contributed to lowering the incidence of preventable death . This is
+attributed to the improvements in care for acute brain injuries and
+bleeding control. The incidence of late death because of sepsis and
+multiple organ failure, possibly a result of better and earlier
+resuscitation [@Asensio_Trunkey_2008]. Functioning trauma systems saves
+lives in the hospital, but their work outside of the hospital is just as
+important. Data collection from injured patients, such as mechanism of
+injury or mortality, are essential for creating databases that can be
+used for research. In turn, that research can be used for planning
+injury prevention programs that target the most common injuries in the
+right ways, e.g. teen drivers, children, specific occupations etc. These
+injury prevention programs can be planned on trauma center,
+organizational or government level[@ACS].
 
-Trauma teams are multidisciplinary and operate in these centers. They play a pivotal role in the treatment of the trauma patient, as they provide the initial care in the critical stage of trauma. In Sweden, trauma teams are lead by a team leader who is a surgeon, and include practitioners from the specialities of intensive care, orthopedics, nursing and support staff. For the trauma team to be mobilized, trauma code has to be activated, often by an emergency nurse. The nurse uses information gathered by the first responders to see if the patient fits any of the criteria for trauma code. Most healthcare facilities have established criteria or guidelines that trigger trauma code activation. These criteria typically include mechanisms of injury, physiological criteria, anatomical criteria and other specific indicators of severe trauma. There are different levels of trauma code with different criteria correlating with severity of injury, with level 1 mobilizing the most personnel to the trauma room. Once in the trauma room, the team works systematically to manage the patients injuries. They handle the most urgent problems first, such as airways and breathing, with the aim to rapidly assess and stabilise the patient, prioritise their injuries and arrange for site of definitive care. [@Hedberg_Falkén_Wihlke_Jansson_Hultgren_Eriksson_Beckman_Haupt_Kjörholt_Sandersjöö_et_al._2020].
+Trauma teams are multidisciplinary and operate in these centers. They
+play a pivotal role in the treatment of the trauma patient, as they
+provide the initial care in the critical stage of trauma. In Sweden,
+trauma teams are lead by a team leader who is a surgeon, and include
+practitioners from the specialities of intensive care, orthopedics,
+nursing and support staff. For the trauma team to be mobilized, trauma
+code has to be activated, often by an emergency nurse. The nurse uses
+information gathered by the first responders to see if the patient fits
+any of the criteria for trauma code. Most healthcare facilities have
+established criteria or guidelines that trigger trauma code activation.
+These criteria typically include mechanisms of injury, physiological
+criteria, anatomical criteria and other specific indicators of severe
+trauma. There are different levels of trauma code with different
+criteria correlating with severity of injury, with level 1 mobilizing
+the most personnel to the trauma room. Once in the trauma room, the team
+works systematically to manage the patients injuries. They handle the
+most urgent problems first, such as airways and breathing, with the aim
+to rapidly assess and stabilise the patient, prioritise their injuries
+and arrange for site of definitive care.
+[@Hedberg_Falkén_Wihlke_Jansson_Hultgren_Eriksson_Beckman_Haupt_Kjörholt_Sandersjöö_et_al._2020]
+<!-- KS: bibtex does not like special characters, thus keep the keys short and only use basic letters a-z and 0-9 -->.
 
 **Mortality and morbidity (MoM) conferences**
 
-Many hospitals have a trauma registry where they log the patients information and timeline of what happened. The extent of the registry varies, with HIC having more complete registries. This logging of information is important work, as a cornerstone of trauma quality improvement programs is multidisciplinary MoM conferences. The MoM conference is a meeting where different specialities who work with trauma care sit down and discuss deaths and complications in order to look for preventable factors. These conferences are performed in many hospitals globally, almost everywhere where there are formal medical specialty departments and sometimes in smaller hospitals as well [@World_Health_Organization_2009]. In Sweden, many hospitals have mortality conferences on deceased patient cases, but only one has MoM conferences to better their trauma care on patients who lived [@SweTrau_2023]. The reason being that this expansion of MoM conferences takes time and resources, which is why all hospitals don't implement this.
+Many hospitals have a trauma registry where they log the patients
+information and timeline of what happened. The extent of the registry
+varies, with HIC having more complete registries. This logging of
+information is important work, as a cornerstone of trauma quality
+improvement programs is multidisciplinary MoM conferences. The MoM
+conference is a meeting where different specialities who work with
+trauma care sit down and discuss deaths and complications in order to
+look for preventable factors. These conferences are performed in many
+hospitals globally, almost everywhere where there are formal medical
+specialty departments and sometimes in smaller hospitals as well
+[@World_Health_Organization_2009]. In Sweden, many hospitals have
+mortality conferences on deceased patient cases, but only one has MoM
+conferences to better their trauma care on patients who lived
+[@SweTrau_2023]. The reason being that this expansion of MoM conferences
+takes time and resources, which is why all hospitals don't implement
+this.
 
-The endpoint of these MoM conferences are opportunities for improvement (OFI). At the end of the conference, consensus is reached regarding the existence of an OFI and implementation of corrective action. This process is effective, as it has been shown that this review is associated with high-quality trauma care [@Santana_Stelfox_2014]. Examples of OFI may include lack of resources and management errors. One common OFI that this paper will look further into is delayed treatment. According to previous studies, among the preventable or possibly preventable deaths in trauma patients, delay in treatment has been identified as a major error contributing to death, found in up to 52.9% of patients in said group [@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007]. Delayed treatment has been shown to have adverse effects on patients, showing why it is such an important issue and the need to develop strategies to combat [@Sampalis_Boukas_Lavoie_Nikolis_Frechette_Brown_Fleiszer_Mulder_1995][@Sampalis_Lavoie_Salas_Nikolis_Williams_1994]. Although it is such a common OFI, the patient level factors associated with delayed treatment are poorly understood. There may be several factors that correlate with receiving delayed treatment, but they have yet to be identified. Mapping these factors may help in identifying patients that might be at risk for receiving delayed treatment before it happens.
+The endpoint of these MoM conferences are opportunities for improvement
+(OFI). At the end of the conference, consensus is reached regarding the
+existence of an OFI and implementation of corrective action. This
+process is effective, as it has been shown that this review is
+associated with high-quality trauma care [@Santana_Stelfox_2014].
+Examples of OFI may include lack of resources and management errors. One
+common OFI that this paper will look further into is delayed treatment
+<!-- KS: do not use "this paper" in the introduction -->. According to
+previous studies, among the preventable or possibly preventable deaths
+in trauma patients, delay in treatment has been identified as a major
+error contributing to death, found in up to 52.9% of patients in said
+group
+[@Teixeira_Inaba_Hadjizacharia_Brown_Salim_Rhee_Browder_Noguchi_Demetriades_2007].
+Delayed treatment has been shown to have adverse effects on patients,
+showing why it is such an important issue and the need to develop
+strategies to combat
+[@Sampalis_Boukas_Lavoie_Nikolis_Frechette_Brown_Fleiszer_Mulder_1995][@Sampalis_Lavoie_Salas_Nikolis_Williams_1994].
+Although it is such a common OFI, the patient level factors associated
+with delayed treatment are poorly understood. There may be several
+factors that correlate with receiving delayed treatment, but they have
+yet to be identified. Mapping these factors may help in identifying
+patients that might be at risk for receiving delayed treatment before it
+happens.
 
-**Aim**
-
-The aim of this paper is to determine what different patient level factors affect the risk of receiving delayed treatment at a trauma center.
+**Aim** The aim of this paper is to determine what different patient
+level factors affect the risk of receiving delayed treatment at a trauma
+center.
 
 # Methods
 
-**Study design**
+<!-- KS: Follow the STROBE order -->
 
-This is a registry based cohort study using data from the trauma registry and trauma care quality database at the Karolinska University Hospital in Solna. The trauma registry includes about 14000 patients treated between 2012 and 2022. The trauma care quality database is a subset of the trauma registry and includes about 8000 patients selected for review between 2013 and 2022. This project will link the two databases and assess how different patient level factors, such as age, sex, mechanism of injury, and injury severity, are associated with delayed treatment using logistic regression.
+**Study design**
+<!-- KS: try to avoid "this is a". Good examples are: "we conducted a" etc. -->
+This is a registry based cohort study using data from the trauma
+registry and trauma care quality database at the Karolinska University
+Hospital in Solna. The trauma registry includes about 14000 patients
+treated between 2012 and 2022. The trauma care quality database is a
+subset of the trauma registry and includes about 8000 patients selected
+for review between 2013 and 2022. This project will link the two
+databases and assess how different patient level factors, such as age,
+sex, mechanism of injury, and injury severity, are associated with
+delayed treatment using logistic regression.
 
 **Outcome**
 
-The outcome is delayed treatment, as identified by the multidisciplinary review board and recorded in the trauma care quality database.
+The outcome is delayed treatment, as identified by the multidisciplinary
+review board and recorded in the trauma care quality database.
 
-**Setting**
-
-Every year, Karolinska University hospital, which is the equivalent of a trauma level 1 hospital, admits 1500 trauma patients each year to their facility. To be added to the trauma registry, a patient must be over 15 years of age, had ISS\>9 and/or had trauma code activation. They get added to both the Karolinska Trauma registry but also the national trauma registry (SweTrau). The registry includes data on vital signs, injuries, interventions and patient information. A subset to this database, the trauma care quality database includes information relevant for MoM conferences. At Karolinska, patients who die during hospital stay gets their case sent to a MoM everytime. However, for the rest of the patients, it is determined by two specialized nurses. Several audit filters are set up to flag for patients with possible OFIs. Flagged patients are then reviewed by these two nurses who decide if there is a possible OFI, in which case their case is sent to a MoM conference for further review.
+**Setting** <!-- KS: this should be the first paragraph --> Every year,
+Karolinska University hospital, which is the equivalent of a trauma
+level 1 hospital, admits 1500 trauma patients each year. To be added to
+the trauma registry, a patient must be over 15 years of age, had ISS\>9
+and/or had trauma code activation. They get added to both the Karolinska
+Trauma registry as well as the national trauma registry (SweTrau). The
+registry includes data on vital signs, injuries, interventions and
+patient information. A subset to this database
+<!-- KS: the trauma care quality database is not a subset of the trauma registry -->,
+the trauma care quality database includes information relevant for MoM
+conferences. At Karolinska University Hospital, patients who die during
+hospital stay gets their case sent to a MoM everytime. However, for the
+rest of the patients, it is determined by two specialized nurses
+<!-- KS: what is determined? try to avoid "it" and "this" and be specific in scientific texts -->.
+Several audit filters are set up to flag for patients with possible
+OFIs. Flagged patients are then reviewed by these two nurses who decide
+if there is a possible OFI, in which case their case is sent to a MoM
+conference for further review. <!-- KS: add a flowchart/figure -->
 
 **Participants**
 
-The database only includes patients 15 and above, ISS \>9 and/or trauma team activation. Inclusion in the study further requires that the patients have been assessed for OFIs. Patients were excluded if they were missing information in one of the examined patient factors.
+The database only includes patients 15 <!-- KS: -years-old --> and
+above, ISS \>9 and/or trauma team activation. Inclusion in the study
+further requires that the patients have been assessed for OFIs. Patients
+were excluded if they were missing information in one of the examined
+patient factors.
 
 **Variables**
 
-The outcome is delayed treatment, which is defined as more than 30 minutes passing from arrival before receiving treatment, as identified by the multidisciplinary review board and recorded in the trauma care quality database.
+The outcome is delayed treatment, which is defined as more than 30
+minutes passing from arrival before receiving treatment, as identified
+by the multidisciplinary review board and recorded in the trauma care
+quality database.
 
 **Data sources/measurement**
 
-The data comes from the trauma registry and trauma care quality database.
+The data comes from the trauma registry and trauma care quality
+database.
 
 **Bias**
 
-Selection bias as this is a retrospective cohort study where the outcome has occurred.
+Selection bias as this is a retrospective cohort study where the outcome
+has occurred.
 
-Misclassification bias as the conference may reach a consensus that is wrong.
+Misclassification bias as the conference may reach a consensus that is
+wrong.
 
 **Study size**
 
-The study size is all of the eligible patients that was treated at the hospital between 2012 and 2022. Starting 2013 only a subgroup of patients were screened for OFIs, but starting 2017 all patients that are included in the database are screened for OFIs.
+The study size is all of the eligible patients that was treated at the
+hospital between 2012 and 2022. Starting 2013 only a subgroup of
+patients were screened for OFIs, but starting 2017 all patients that are
+included in the database are screened for OFIs.
 
 **Statistical methods**
 
-Multivariable and potentially univariable logistical regression. A 5% significance level and 95% confidence levels will be used.
+Multivariable and potentially univariable logistical regression. A 5%
+significance level and 95% confidence levels will be used.
