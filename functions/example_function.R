@@ -1,7 +1,5 @@
 library(rofi)
 
-noacsr::source_all_functions()
-
 prepared.data <- prepare_data(data)
 
 summary(prepared.data)

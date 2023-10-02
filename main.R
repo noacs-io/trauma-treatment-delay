@@ -1,4 +1,5 @@
 ## Load packages
+library(rofi)
 
 noacsr::source_all_functions()
 
