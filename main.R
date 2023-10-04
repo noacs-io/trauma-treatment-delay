@@ -12,8 +12,6 @@ subset.data <- Create_subset(data)
 
 print(subset.data)
 
-
-
 ## Welcome!
 
 ## This is your project's main script file and together with
